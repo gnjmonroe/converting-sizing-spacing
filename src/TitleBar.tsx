@@ -8,7 +8,7 @@ class TitleBar extends Component {
     return (
       <div className="title-bar">
         <TitleEl />
-        <AboutEl />
+        {/* <AboutEl /> */}
         {/* <DarkModeEl /> */}
       </div>
     )
