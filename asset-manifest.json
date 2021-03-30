@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/converting-sizing-spacing/static/css/main.09f09e9d.chunk.css",
-    "main.js": "/converting-sizing-spacing/static/js/main.6ca0dbdd.chunk.js",
-    "main.js.map": "/converting-sizing-spacing/static/js/main.6ca0dbdd.chunk.js.map",
+    "main.css": "/converting-sizing-spacing/static/css/main.52fa4c77.chunk.css",
+    "main.js": "/converting-sizing-spacing/static/js/main.ad836af9.chunk.js",
+    "main.js.map": "/converting-sizing-spacing/static/js/main.ad836af9.chunk.js.map",
     "runtime-main.js": "/converting-sizing-spacing/static/js/runtime-main.a79cffc6.js",
     "runtime-main.js.map": "/converting-sizing-spacing/static/js/runtime-main.a79cffc6.js.map",
     "static/js/2.c39df6c0.chunk.js": "/converting-sizing-spacing/static/js/2.c39df6c0.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0e596dee.chunk.js": "/converting-sizing-spacing/static/js/3.0e596dee.chunk.js",
     "static/js/3.0e596dee.chunk.js.map": "/converting-sizing-spacing/static/js/3.0e596dee.chunk.js.map",
     "index.html": "/converting-sizing-spacing/index.html",
-    "static/css/main.09f09e9d.chunk.css.map": "/converting-sizing-spacing/static/css/main.09f09e9d.chunk.css.map",
+    "static/css/main.52fa4c77.chunk.css.map": "/converting-sizing-spacing/static/css/main.52fa4c77.chunk.css.map",
     "static/js/2.c39df6c0.chunk.js.LICENSE.txt": "/converting-sizing-spacing/static/js/2.c39df6c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a79cffc6.js",
     "static/js/2.c39df6c0.chunk.js",
-    "static/css/main.09f09e9d.chunk.css",
-    "static/js/main.6ca0dbdd.chunk.js"
+    "static/css/main.52fa4c77.chunk.css",
+    "static/js/main.ad836af9.chunk.js"
   ]
 }
